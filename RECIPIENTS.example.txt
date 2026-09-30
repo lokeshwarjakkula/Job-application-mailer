@@ -1,0 +1,5 @@
+# Add one legitimate, relevant recipient email address per line.
+# Do not publish personal recruiter/customer email addresses in a public repository.
+# Example:
+# careers@example.com
+# recruiter@example.com
